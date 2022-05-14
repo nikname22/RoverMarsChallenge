@@ -1,0 +1,15 @@
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\bin\Debug\net6.0\RoverMars.exe
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\bin\Debug\net6.0\RoverMars.deps.json
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\bin\Debug\net6.0\RoverMars.runtimeconfig.json
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\bin\Debug\net6.0\RoverMars.dll
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\bin\Debug\net6.0\RoverMars.pdb
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.csproj.AssemblyReference.cache
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.AssemblyInfoInputs.cache
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.AssemblyInfo.cs
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.csproj.CoreCompileInputs.cache
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.dll
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\refint\RoverMars.dll
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.pdb
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\RoverMars.genruntimeconfig.cache
+C:\Users\Nikolas\Desktop\RoverMars\RoverMars\obj\Debug\net6.0\ref\RoverMars.dll
